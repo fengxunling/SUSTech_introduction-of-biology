@@ -101,15 +101,84 @@ plasma membrane has selective permeability: some things get through(**eg.gases; 
 - The Golgi Apparatus 高尔基体
 - secretory proteins:
   - (1) a ribosome links amino acids
-  - (2) proteins are modified in the ER
-  - (3) secretory proteins depart
-  - (4) vesicles bud off from the ER
+  - (2) proteins are modified in the ER（ER is the position which synthsis the secretary protein, not te Golgi）
+  - (3) Golgi process it.
 - mitochondria 线粒体
 - chloroplasts 叶绿体
 - lysosome 溶酶体
   - found in animal cells
-  - digestive exzymes enclosed in a membranous sac
+  - digestive exzymes enclosed in a membranous sac（hydrolytic enzymes水解酶）
   - two functions
     - breaking down the molecules of damaged organelles
     - breaking down the foreign matter
+- 在光学显微镜下最小能看到线粒体叶绿体等，看不到核糖体和溶酶体什么的.....
 
+
+---
+
+### Which of the following statements concerning saturated fats is not true?（fatty acids are the same）
+	
+- They contain more hydrogen than unsaturated fats having the same number of carbon atoms.
+- **They have multiple double bonds in the carbon chains of their fatty acids.**
+- They generally solidify at room temperature.
+- They are one of several factors that contribute to atherosclerosis.（动脉粥样硬化）
+- They are more common in animals than in plants.
+
+---
+
+### The presence of cholesterol in the plasma membranes of some animals
+- **enables the membrane to stay fluid more easily when cell temperature drops.**
+
+---
+
+### Liquid water's high specific heat is mainly a consequence of the
+- **absorption and release of heat when hydrogen bonds break and form.**
+
+---
+
+### Which of the following best describes the logic of scientific inquiry?
+- **If my hypothesis is correct, I can expect certain test results.**
+- If my experiments are set up right, they will lead to a testable hypothesis.
+
+---
+
+### Why is the theme of evolution considered to be the core theme of biology by biologists?
+
+- Controversy about this theory provides a basis for a great deal of experimental research.
+- It is recognized as the core theme of biology by organizations such as the National Science Foundation.
+- Since it cannot be proven, biologists will be able to study evolutionary possibilities for many years.
+- **It provides a framework within which all biological investigation makes sense.**
+- Biologists do not subscribe to alternative models.
+
+---
+
+### When applying the process of science, which of these is tested?
+
+- a hypothesis
+- **a prediction**
+
+---
+
+### Collecting data based on observation is an example of ________; analyzing this data to reach a conclusion is an example of ________ reasoning.
+- **discovery science; inductive（归纳）**
+- descriptive science; deductive（演绎）
+- hypothesis-based science; inductive
+- hypothesis-based science; deductive
+- the process of science; deductive
+
+---
+
+### The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as
+- quantitative science.
+- hypothesis-based science.
+- experimental science.
+- **discovery science.**
+- qualitative science.
+
+---
+
+### 词汇补充
+- dehydration 脱水
+- hydrolysis 水解
+- peptide bond 肽键
+- macromolecular polymers 大分子聚合物（再小的protein也是，再大的lipid也不是）
